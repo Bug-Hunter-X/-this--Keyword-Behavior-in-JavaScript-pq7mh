@@ -1,0 +1,3 @@
+# JavaScript 'this' Keyword Bug
+
+This repository demonstrates a common source of confusion in JavaScript: the behavior of the `this` keyword.  The `bug.js` file shows how the value of `this` can change unexpectedly depending on how a function is called.  The `bugSolution.js` file provides a solution using techniques like binding or arrow functions to control the value of `this`.  Understanding how `this` works is crucial for writing reliable and maintainable JavaScript code.
